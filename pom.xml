@@ -13,6 +13,7 @@
         <module>consumer1</module>
         <module>consumer2</module>
         <module>api</module>
+        <module>provider2</module>
     </modules>
 
 

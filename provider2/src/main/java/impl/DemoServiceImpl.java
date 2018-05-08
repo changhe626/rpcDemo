@@ -13,16 +13,16 @@ public class DemoServiceImpl implements DemoService {
         int id2=id.intValue();
         switch (id2) {
             case 1:
-                demo.add("1昭君----1");
+                demo.add("2昭君----1");
                 break;
             case 2:
-                demo.add("1 i  love  you-----2");
+                demo.add("2 i  love  you-----2");
                 break;
             case 3:
-                demo.add("1very  much.----3");
+                demo.add("2very  much.----3");
                 break;
             case 4:
-                demo.add("1very  very much,---4");
+                demo.add("2very  very much,---4");
                 break;
         }
         return demo;
